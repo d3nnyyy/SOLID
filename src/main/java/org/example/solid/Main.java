@@ -15,5 +15,6 @@ public class Main {
         int sum = areaCalculator.sum(shapes);
         System.out.println(printer.json(shapes));
         System.out.println(printer.csv(shapes));
+        System.out.println("just using a test branch");
     }
 }
